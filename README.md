@@ -1,6 +1,6 @@
 ### Hi there!!! 👋
 
-I am Front-End developer student. I am interested in computer technology, renewable energy, and fintech.
+I am Front-End developer student. I am interested in computer technology, renewable energy and fintech.
 
 
  🌱 I’m currently learning JavaScript.
