@@ -1,9 +1,9 @@
 ### Hi there!!! 👋
 
-I am Front-End developer student. I am interested in computer technology, renewable energy and fintech.
+I am Full-stack developer student. I am interested in computer technology, renewable energy and fintech.
 
 
- 🌱 I’m currently learning JavaScript.
+ 🌱 I’m currently learning React.
 
 [![codewars](https://www.codewars.com/users/Stylize-K/badges/small)](https://www.codewars.com/users/Stylize-K)
 
