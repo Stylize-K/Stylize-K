@@ -18,6 +18,9 @@ I am Full-stack developer student. I am interested in computer technology, renew
 </div>
 
 
+---
+
+
 
 [![codewars](https://www.codewars.com/users/Stylize-K/badges/small)](https://www.codewars.com/users/Stylize-K)
 
